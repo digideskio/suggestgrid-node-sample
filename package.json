@@ -1,0 +1,22 @@
+{
+  "name": "suggestgrid-node-sample",
+  "version": "0.1.0",
+  "description": "A sample SuggestGrid Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suggestgrid/suggestgrid-node-sample.git"
+  },
+  "keywords": [
+    "suggestgrid"
+  ],
+  "author": "SuggestGrid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suggestgrid/suggestgrid-node-sample/issues"
+  },
+  "homepage": "https://github.com/suggestgrid/suggestgrid-node-sample#readme"
+}

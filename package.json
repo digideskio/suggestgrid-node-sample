@@ -4,7 +4,11 @@
   "description": "A sample SuggestGrid Node.js application",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "suggestgrid": "git://github.com/suggestgrid/suggestgrid-node"
   },
   "repository": {
     "type": "git",
